@@ -1,0 +1,9 @@
+Comida|Sustantivos|EASY|¿Cómo se dice 'apple' en español?|manzana;plátano;pera;uva|0
+Comida|Sustantivos|MEDIUM|Selecciona la palabra que significa 'bread'.|queso;pan;aceite;carne|1
+Comida|Sustantivos|HARD|¿Cuál es la traducción correcta de 'seafood'?|mariscos;embutidos;legumbres;golosinas|0
+Comida|Verbos|EASY|'Cocinar' significa...|to cook;to eat;to buy;to clean|0
+Comida|Verbos|MEDIUM|¿Qué verbo significa 'to taste'?|probar;cortar;mezclar;freír|0
+Comida|Verbos|HARD|Elige el verbo que significa 'to season'.|sazonar;hervir;asar;amasar|0
+Escuela|Frases|EASY|'Tengo deberes' significa...|I have homework;I have lunch;I have class;I have a pen|0
+Escuela|Frases|MEDIUM|Selecciona la frase correcta para 'Where is the classroom?'|¿Dónde está el aula?;¿Dónde está el profesor?;¿Dónde está el libro?;¿Dónde está el recreo?|0
+Escuela|Frases|HARD|¿Cómo se dice 'I need to study for the exam' en español?|Necesito estudiar para el examen;Necesito escribir en el examen;Necesito hablar con el examen;Necesito correr al examen|0
