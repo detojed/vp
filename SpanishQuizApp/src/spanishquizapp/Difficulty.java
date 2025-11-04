@@ -1,6 +1,6 @@
 package spanishquizapp;
 
-enum Difficulty {
+public enum Difficulty {
     EASY,
     MEDIUM,
     HARD;

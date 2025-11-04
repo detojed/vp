@@ -1,6 +1,6 @@
 package spanishquizapp;
 
-enum Role {
+public enum Role {
     STUDENT,
     TEACHER
 }
